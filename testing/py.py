@@ -1,2 +1,3 @@
-print("funny")
+from turtle import *
+
 
